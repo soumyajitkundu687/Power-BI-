@@ -1,0 +1,22 @@
+
+This GitHub project analyzes transaction records from Maven Roasters, a fictitious coffee shop with three locations in New York City. The dataset includes transaction date, timestamp, location, and product-level details. The analysis focuses on sales trends over time, busiest days of the week, and product performance.
+
+Key Questions:
+
+How have Maven Roasters sales trended over time?
+Which days of the week are busiest, and why?
+Which products are most and least often sold?
+Which products contribute the most revenue?
+Tools Used:
+
+Power BI for data visualization and analysis.
+Files Included:
+
+coffee_shop_sales.csv: Dataset containing transaction records.
+coffee_shop_sales.pbix: Power BI file with pre-built visualizations.
+README.md: Project description and instructions.
+Methodology:
+
+Data Preparation: Cleaning and formatting the dataset for analysis.
+Visualization: Creating interactive dashboards in Power BI to visualize sales trends, busiest days, and product performance.
+Insights: Extracting insights to drive business decisions.
